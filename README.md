@@ -1,2 +1,2 @@
 # programming-skills-challenge
-fun programming skills excerise with python or scala
+fun programming exercises with python or scala language
